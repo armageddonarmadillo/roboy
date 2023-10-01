@@ -28,7 +28,6 @@ public class Game extends Scene{
         g.setColor(Color.BLACK);
         g.fillRect(0, 0, gw, gh);
 
-        //image test
         roboy.draw(g);
 
         repaint();
